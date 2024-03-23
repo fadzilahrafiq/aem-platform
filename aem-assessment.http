@@ -1,0 +1,6 @@
+@aem_assessment_HostAddress = http://localhost:5026
+
+GET {{aem_assessment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

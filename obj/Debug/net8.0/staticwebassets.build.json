@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gjPj60rpHGSM/zlLCwaclzWTgwxLeuRiW+scab+NSOI=",
+  "Source": "aem-assessment",
+  "BasePath": "_content/aem-assessment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
